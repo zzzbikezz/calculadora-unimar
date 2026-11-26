@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0001",
+    "fecha_hora": "2026-11-26 00:19:05",
+    "entradas": {
+      "tension": 12.0,
+      "resistencia_carga": 10.0,
+      "material": "cobre",
+      "longitud_ida": 5.0,
+      "seccion_mm2": 2.5
+    },
+    "resultados": {
+      "rc_ohm": 0.06720000000000001,
+      "rt_ohm": 10.0672,
+      "corriente_a": 1.1919898283534647,
+      "caida_tension_v": 0.08010171646535284,
+      "potencia_cable_w": 0.09548043126035381
+    }
+  },
+  {
+    "id": "0002",
+    "fecha_hora": "2026-11-26 00:19:05",
+    "entradas": {
+      "tension": 12.0,
+      "resistencia_carga": 10.0,
+      "material": "aluminio",
+      "longitud_ida": 5.0,
+      "seccion_mm2": 2.5
+    },
+    "resultados": {
+      "rc_ohm": 0.10600000000000001,
+      "rt_ohm": 10.106,
+      "corriente_a": 1.187413417771621,
+      "caida_tension_v": 0.12586582228379184,
+      "potencia_cable_w": 0.14945476621863268
+    }
+  },
+  {
+    "id": "0003",
+    "fecha_hora": "2026-11-26 00:19:05",
+    "entradas": {
+      "tension": 12.0,
+      "resistencia_carga": 10.0,
+      "material": "cobre",
+      "longitud_ida": 5.0,
+      "seccion_mm2": 6.0
+    },
+    "resultados": {
+      "rc_ohm": 0.028000000000000004,
+      "rt_ohm": 10.028,
+      "corriente_a": 1.1966493817311528,
+      "caida_tension_v": 0.03350618268847228,
+      "potencia_cable_w": 0.04009515279833141
+    }
+  },
+  {
+    "id": "0004",
+    "fecha_hora": "2026-11-26 00:19:05",
+    "entradas": {
+      "tension": 12.0,
+      "resistencia_carga": 10.0,
+      "material": "cobre",
+      "longitud_ida": 5.0,
+      "seccion_mm2": 1.0
+    },
+    "resultados": {
+      "rc_ohm": 0.16800000000000004,
+      "rt_ohm": 10.168,
+      "corriente_a": 1.1801730920535012,
+      "caida_tension_v": 0.19826907946498826,
+      "potencia_cable_w": 0.2339918325707965
+    }
+  }
+]
