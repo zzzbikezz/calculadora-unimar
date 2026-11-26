@@ -1,0 +1,16 @@
+# Entornos virtuales y caché
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
+
+# Temporales y respaldos de JSON dañado
+data/*.tmp
+data/*.corrupto.*.json
+
+# NOTA: data/historial.json y logs/app.log SÍ se suben (el enunciado pide evidencia de pruebas)
