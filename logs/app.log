@@ -1,0 +1,29 @@
+2026-11-26 00:19:05 | WARNING | calculadora.historial | archivo de historial aún inexistente; se creará | historial.json
+2026-11-26 00:19:05 | INFO | calculadora.historial | historial inicializado | historial.json
+2026-11-26 00:19:05 | INFO | calculadora.pruebas | inicio de pruebas mínimas
+2026-11-26 00:19:05 | INFO | calculadora.validaciones.validar_entradas | operación completada | duración=0.020 ms
+2026-11-26 00:19:05 | INFO | calculadora.calculos.calcular_circuito | operación completada | duración=0.008 ms
+2026-11-26 00:19:05 | INFO | calculadora.historial | lectura correcta del historial | registros=0
+2026-11-26 00:19:05 | INFO | calculadora.historial | escritura correcta del historial | id=0001
+2026-11-26 00:19:05 | INFO | calculadora.historial.guardar_calculo | operación completada | duración=0.296 ms
+2026-11-26 00:19:05 | INFO | calculadora.validaciones.validar_entradas | operación completada | duración=0.012 ms
+2026-11-26 00:19:05 | INFO | calculadora.calculos.calcular_circuito | operación completada | duración=0.005 ms
+2026-11-26 00:19:05 | INFO | calculadora.historial | lectura correcta del historial | registros=1
+2026-11-26 00:19:05 | INFO | calculadora.historial | escritura correcta del historial | id=0002
+2026-11-26 00:19:05 | INFO | calculadora.historial.guardar_calculo | operación completada | duración=0.556 ms
+2026-11-26 00:19:05 | INFO | calculadora.validaciones.validar_entradas | operación completada | duración=0.011 ms
+2026-11-26 00:19:05 | INFO | calculadora.calculos.calcular_circuito | operación completada | duración=0.005 ms
+2026-11-26 00:19:05 | INFO | calculadora.historial | lectura correcta del historial | registros=2
+2026-11-26 00:19:05 | INFO | calculadora.historial | escritura correcta del historial | id=0003
+2026-11-26 00:19:05 | INFO | calculadora.historial.guardar_calculo | operación completada | duración=0.499 ms
+2026-11-26 00:19:05 | INFO | calculadora.validaciones.validar_entradas | operación completada | duración=0.009 ms
+2026-11-26 00:19:05 | INFO | calculadora.calculos.calcular_circuito | operación completada | duración=0.004 ms
+2026-11-26 00:19:05 | INFO | calculadora.historial | lectura correcta del historial | registros=3
+2026-11-26 00:19:05 | INFO | calculadora.historial | escritura correcta del historial | id=0004
+2026-11-26 00:19:05 | INFO | calculadora.historial.guardar_calculo | operación completada | duración=0.313 ms
+2026-11-26 00:19:05 | WARNING | calculadora.validaciones.validar_entradas | operación rechazada por validación | Sección transversal (mm²): formato no admitido. Use por ejemplo 2.5, 2,5, 2.5 mm2 o 2,5 mm² (no AWG, radio ni diámetro). | 0.016 ms
+2026-11-26 00:19:05 | WARNING | calculadora.validaciones.validar_entradas | operación rechazada por validación | Tensión (V): debe ser un número (use punto o coma decimal, sin letras). | 0.004 ms
+2026-11-26 00:19:05 | WARNING | calculadora.validaciones.validar_entradas | operación rechazada por validación | Resistencia de carga (Ω): debe ser mayor que cero. Corrija este dato. | 0.014 ms
+2026-11-26 00:19:05 | WARNING | calculadora.validaciones.validar_entradas | operación rechazada por validación | Longitud de ida (m): debe ser mayor que cero. Corrija este dato. | 0.005 ms
+2026-11-26 00:19:05 | INFO | calculadora.historial | lectura correcta del historial | registros=4
+2026-11-26 00:19:05 | INFO | calculadora.pruebas | fin de pruebas mínimas | registros_en_historial=4
